@@ -1,0 +1,10 @@
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\bin\Debug\Shuffler.exe.config
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\bin\Debug\Shuffler.exe
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\bin\Debug\Shuffler.pdb
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\obj\Debug\Shuffler.csprojAssemblyReference.cache
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\obj\Debug\Shuffler.Shuffler.resources
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\obj\Debug\Shuffler.Properties.Resources.resources
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\obj\Debug\Shuffler.csproj.GenerateResource.cache
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\obj\Debug\Shuffler.csproj.CoreCompileInputs.cache
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\obj\Debug\Shuffler.exe
+C:\Users\GBL INFORMATICA\source\repos\Shuffler\Shuffler\obj\Debug\Shuffler.pdb
