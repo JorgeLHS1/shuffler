@@ -1,2 +1,2 @@
 # shuffler
-Simple program to randomize music names of a folder.
+Simple C# program to randomize music names of a folder.
